@@ -1,0 +1,2 @@
+# LazyBot
+🌸 Cozy Discord Bot
